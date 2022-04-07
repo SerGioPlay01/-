@@ -1,0 +1,40 @@
+
+.bin {
+width: 405px;
+height: 36px;
+left: 16px;
+top: 13px;
+align-items: center;
+justify-content: center;
+margin-left: 50%;
+
+background: #FFFFFF;
+
+border: 1px solid #D3D9DE;
+border-radius: 6px;
+
+
+flex: none;
+order: 0;
+flex-grow: 1;
+margin: 0px 16px;
+
+}
+
+.input56 {
+    align-items: center;
+justify-content: center;
+margin-left: 40%;
+margin-top: 40%;
+width: 60%;
+height: 30px;
+}
+
+.output {
+
+    margin: 0 auto;
+    color: rgb(25, 189, 211);
+    border-radius: 7px;
+    width: 50%;
+    height: 50%;
+}
